@@ -1,1 +1,1 @@
-[View the PDF](GameplayAssignment/PéterGulyás_AssigmentCL.pdf)
+[View the PDF](/PéterGulyás_AssigmentCL.pdf)
